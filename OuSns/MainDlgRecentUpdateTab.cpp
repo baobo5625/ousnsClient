@@ -1,0 +1,6 @@
+#include "stdAfx.h"
+#include "MainDlg.h"
+#include "friendChatDlg.h"
+#include "GroupChatDlg.h"
+#include "Communication.h"
+#include "MessageProcessor.h"
